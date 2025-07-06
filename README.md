@@ -13,21 +13,41 @@
 - 👨‍💻 I love working with **Java, C, Python, MySQL**, and exploring **Data Structures and Algorithms**.
 - 🔭 Currently diving deep into **DSA in Java via LeetCode**.
 - 💼 Open to **collaborations** and **job opportunities**.
-- 📫 How to reach me: **dhruvin.mavani.career@gmail.com**
+- 📫 Reach me at: **dhruvin.mavani.career@gmail.com**
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Languages & Tools I Use
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> -->
+  
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> -->
 
-<!-- Tools/IDEs -->
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> -->
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+
+  <!-- Platforms -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+</p>
 
 
 ---
@@ -43,9 +63,9 @@ A curated collection of **Data Structures and Algorithms** implementations in Ja
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvin58&show_icons=true&theme=default" alt="Dhruvin's GitHub stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvin58&theme=default" alt="GitHub Streak" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvin58&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
